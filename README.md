@@ -4,4 +4,4 @@
 
 - This serves as an easy location for our clients to always obtain the latest copy. Additionally, it keeps transperency which is one of our core business attributes. 
 
-[Download the latest](SixGen Customer License Agreement Online.pdf)
+[Download the latest](https://github.com/SixGenInc/Legal/blob/main/SixGen%20Customer%20License%20Agreement%20Online.pdf)
